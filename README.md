@@ -6,6 +6,8 @@
 
 Welcome to the React Todo List Projects repository! This repository contains several implementations of a Todo List application, showcasing various techniques and tools in React, such as `useState`, `useContext`, Firebase, localStorage, and more. We also use Tailwind CSS for styling.
 
+
+## check the deployed version here  --  https://todo-react-types.netlify.app/
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -14,7 +16,7 @@ Welcome to the React Todo List Projects repository! This repository contains sev
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
